@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izopeunu.github.io/OsU/sitemap_index.txt
+Sitemap: https://izopeunu.github.io/iQy/sitemap_index.txt
+Sitemap: https://izopeunu.github.io/qlP/sitemap_index.txt
+Sitemap: https://izopeunu.github.io/vjV/sitemap_index.txt
